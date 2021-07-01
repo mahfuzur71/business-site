@@ -1,0 +1,411 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .navbar-brand img {
+    width: 7em;
+  }
+  .nav-item {
+    margin: 0 !important;
+    list-style: none !important;
+  }
+  .nav-link {
+    font-size: 14px;
+  }
+  .bennar_section {
+    height: 250px;
+  }
+  .bennar_content h1 {
+    font-weight: 700;
+    font-size: 30px;
+  }
+  .bennar_content p {
+    font-size: 17px;
+    margin-bottom: 15px;
+  }
+  .bennar_content button {
+    padding: 8px 25px;
+    font-size: 16px;
+  }
+  .service-content p {
+    font-size: 14px;
+  }
+  .service-content img {
+    width: 50px;
+  }
+  .service-content span {
+    font-size: 10px;
+  }
+
+  .approch-1 h1 {
+    left: 48%;
+    height: 80px;
+    width: 80px;
+    font-size: 35px;
+  }
+  .approch-1 h6 {
+    margin: 0;
+    font-size: 16px;
+  }
+  .approch-1 p {
+    font-size: 12px;
+    margin: auto;
+  }
+  .approch-2 h6 {
+    margin: 0;
+    font-size: 16px;
+    text-align: left;
+  }
+  .approch-2 p {
+    font-size: 12px;
+    margin: 0;
+    text-align: left;
+  }
+  .approch-2 h1 {
+    right: 40%;
+    height: 80px;
+    width: 80px;
+    font-size: 35px;
+  }
+  .approch-1-content {
+    padding: 0;
+    text-align: center;
+    padding-left: 20px;
+  }
+  .approch-2-content {
+    padding: 0;
+    padding-left: 20px;
+  }
+  .image-content i {
+    font-size: 25px;
+  }
+  .image-content h2 {
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-top: 10px;
+  }
+  .image-content p {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 100;
+  }
+  form {
+    padding: 30px 30px 40px 30px;
+    margin: auto;
+    margin-top: 48px;
+    margin-left: -0.5em;
+  }
+  .menu-section {
+    padding: 0;
+  }
+  .about-us-section,
+  .approch-section,
+  .work-section,
+  .form-section,
+  .subscribe-section {
+    padding: 40px 0;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .navbar-brand img {
+    width: 9em;
+  }
+  .nav-item {
+    margin: 0 !important;
+    list-style: none !important;
+  }
+  .bennar_section {
+    height: 350px;
+  }
+  .bennar_content h1 {
+    font-weight: 500;
+    font-size: 40px;
+  }
+  .bennar_content p {
+    font-size: 23px;
+    margin-bottom: 15px;
+  }
+  .bennar_content button {
+    padding: 8px 25px;
+    font-size: 18px;
+  }
+  .service-content p {
+    font-size: 17px;
+  }
+  .service-content img {
+    width: 70px;
+  }
+  .service-content span {
+    font-size: 14px;
+  }
+
+  .approch-1 h1 {
+    left: 32%;
+    height: 90px;
+    width: 90px;
+    font-size: 40px;
+  }
+  .approch-1 h6 {
+    margin: 0;
+    font-size: 16px;
+  }
+  .approch-1 p {
+    font-size: 14px;
+  }
+  .approch-2 h6 {
+    margin: 0;
+    font-size: 16px;
+  }
+  .approch-2 p {
+    font-size: 14px;
+  }
+  .approch-2 h1 {
+    right: 25%;
+    height: 90px;
+    width: 90px;
+    font-size: 40px;
+  }
+  .approch-1-content {
+    padding-left: 110px;
+  }
+  .approch-2-content {
+    padding-right: 120px;
+  }
+  form {
+    padding: 30px 30px 40px 30px;
+    margin: auto;
+    margin-top: 48px;
+    margin-left: 6.75em;
+  }
+  .menu-section {
+    padding: 0;
+  }
+  .about-us-section,
+  .approch-section,
+  .work-section,
+  .form-section,
+  .subscribe-section {
+    padding: 50px 0;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .navbar-brand img {
+    width: 9em;
+  }
+  .nav-item {
+    margin: 0 !important;
+    list-style: none !important;
+  }
+  .bennar_section {
+    height: 430px;
+  }
+  .bennar_content h1 {
+    font-weight: 500;
+    font-size: 45px;
+  }
+  .bennar_content p {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  .bennar_content button {
+    padding: 8px 25px;
+    font-size: 20px;
+  }
+  .approch-1 h1 {
+    left: 32%;
+  }
+  .approch-2 h1 {
+    right: 27%;
+  }
+  .approch-1-content {
+    padding-left: 110px;
+  }
+  .approch-2-content {
+    padding-right: 120px;
+  }
+  form {
+    padding: 30px 30px 40px 30px;
+    margin-left: 14.2em;
+  }
+  .menu-section {
+    padding: 0;
+  }
+  .about-us-section,
+  .approch-section,
+  .work-section,
+  .form-section,
+  .subscribe-section {
+    padding: 50px 0;
+  }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .menu-section {
+    padding: 30px 0;
+  }
+
+  .nav-item {
+    list-style-type: disc !important;
+    margin: 0 15px !important;
+  }
+
+  .nav-item:nth-child(1) {
+    list-style: none !important;
+  }
+
+  .nav-link {
+    font-weight: 700;
+    font-size: 18px;
+    padding: 0 10px !important;
+  }
+
+  /* Bennar Section Style */
+
+  .bennar_section {
+    height: 640px;
+  }
+
+  .bennar_content h1 {
+    font-weight: 700;
+    font-size: 50px;
+  }
+  .bennar_content p {
+    font-size: 35px;
+    font-weight: 100;
+    margin-bottom: 35px;
+  }
+  .bennar_content button {
+    padding: 15px 40px;
+    font-size: 22px;
+  }
+
+  /* About Section Style */
+
+  .about-us-section {
+    padding: 120px 0;
+  }
+
+  .services {
+    padding-top: 40px;
+  }
+
+  .service-content p {
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+  }
+  .service-content span {
+    max-width: 67%;
+    display: block;
+    margin: auto;
+  }
+
+  /* Approch Section Style */
+
+  .approch-section {
+    padding: 120px 0;
+  }
+
+  .approch-1 {
+    margin: 40px 0;
+  }
+  .approch-2-content {
+    padding-right: 85px;
+  }
+  .approch-1-content {
+    padding-left: 85px;
+  }
+
+  .approch-1 h1 {
+    font-size: 60px;
+    font-weight: 900;
+    width: 120px;
+    height: 120px;
+    padding-top: 7px;
+    top: 39%;
+    left: 30%;
+  }
+  .approch-1 span {
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: -10px;
+  }
+  .approch-1 h6 {
+    font-weight: 700;
+    font-size: 18px;
+  }
+  .approch-1 p {
+    width: 70%;
+  }
+
+  .approch-2 {
+    margin: 40px 0;
+  }
+  .approch-2 img {
+    margin-left: auto;
+  }
+  .approch-2 h1 {
+    font-size: 60px;
+    font-weight: 900;
+    width: 120px;
+    height: 120px;
+    padding-top: 7px;
+    top: 39%;
+    right: 24%;
+  }
+  .approch-2 span {
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: -10px;
+  }
+  .approch-2 h6 {
+    font-weight: 700;
+    font-size: 18px;
+    text-align: right;
+    padding-right: 25px;
+  }
+  .approch-2 p {
+    width: 70%;
+    margin-left: auto;
+  }
+
+  /* Work Section Style */
+
+  .work-section {
+    padding: 120px 0;
+  }
+  .image-content i {
+    font-size: 37px;
+  }
+  .image-content h2 {
+    font-size: 32px;
+    margin-bottom: 0;
+    margin-top: 20px;
+  }
+  .image-content p {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  /* Form Section Style */
+
+  .form-section {
+    padding: 100px 0;
+  }
+
+  form {
+    margin: auto;
+    padding: 50px 60px 70px 60px;
+    margin-top: 50px;
+    margin-left: 16.5em;
+  }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+}
